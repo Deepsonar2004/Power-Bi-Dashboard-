@@ -1,11 +1,11 @@
-# Power-Bi-Dashboard-
+# Power-Bi-Dashboard
 Comprehensive Power BI dashboard visualizing UK bank data, offering insights into financial trends, customer behavior, and performance metrics
 
 <br />
 
 ### Demo Screeshots
 
-![Power Bi Dashboard](./readme-images/desktop.png "Desktop Demo")
+![Power Bi Dashboard](https://github.com/Deepsonar2004/Power-Bi-Dashboard-/blob/main/Preview.png)
 
 
 
